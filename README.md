@@ -1,11 +1,11 @@
-# Multitask Online Learning
+# Multi-task Online Learning
 
-Run classification task on MNIST
+Do classification on MNIST
 ```
 python OnlineLearner.py mnist
 ```
 
-Run regression task on Computer Survey
+Do regression on Computer Survey 190
 ```
 python OnlineLearner.py cs
 ```
