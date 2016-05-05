@@ -1,5 +1,4 @@
-# mol
-Multitask Online Learning
+# Multitask Online Learning
 
 Run classification task on MNIST
 ```
